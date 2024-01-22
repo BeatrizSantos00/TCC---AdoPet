@@ -1,6 +1,8 @@
 # TCC-AdoPet
 Trabalho de conclusão de curso para Etec de São José dos Campos
+
 Link do Expo.io: https://snack.expo.dev/@beatriz_santos/adopet
+
 ![1](https://github.com/BeatrizSantos00/TCC-AdoPet/assets/110474935/b6c2e61f-e567-4cb7-bada-a7bd59025bb1)
 ![2](https://github.com/BeatrizSantos00/TCC-AdoPet/assets/110474935/88ba2317-7295-4fcb-89aa-b8a49b666361)
 ![4](https://github.com/BeatrizSantos00/TCC-AdoPet/assets/110474935/a1275e63-2c3e-4321-82a9-8f2f269f8dcc)
